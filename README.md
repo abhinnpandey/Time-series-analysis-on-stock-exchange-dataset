@@ -8,7 +8,7 @@ simple.
 Python is a great tool for data analysis along with the scipy stack and the main objective of NSEpy is to provide
 analysis ready data-series for use with scipy stack.
 
-**The problem analyse time stock exchange dataset.** 
+**The problem is to analyse time stock exchange dataset.** 
 
 ## Implimentation Details
 
